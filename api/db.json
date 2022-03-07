@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "first stream",
+      "description": "my first stream",
+      "id": 1
+    },
+    {
+      "title": "2nd stream",
+      "description": "my 2nd stream",
+      "id": 2
+    },
+    {
+      "title": "youtube",
+      "description": "singing videos",
+      "id": 3
+    }
+  ]
+}
